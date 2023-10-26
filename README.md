@@ -1,0 +1,5 @@
+# Transformer_de_en
+手写的transformer，包含了decoder和encoder
+
+
+想写一个文本生成的语言模型的，一不小心写多了，类似GPT的框架应该只包含decoder部分的。包括了decoder和encoder的transformer更适合做seq2seq，类似翻译，语义分类方面的任务。
